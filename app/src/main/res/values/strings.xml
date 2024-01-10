@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RjvKeyboard</string>
+    <string name="rjv_ime">Rjv IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
